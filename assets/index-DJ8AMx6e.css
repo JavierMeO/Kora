@@ -419,7 +419,8 @@ body {
 
 main {
     margin: 5vh 5%;
-    padding-top: 100px
+    padding-top: 100px;
+    color: #553d2a;
 }
 
 header {
@@ -574,7 +575,8 @@ section {
 
 @media (width<=768px) {
     main {
-        padding-top: 140px
+        padding-top: 140px;
+        color: #553d2a;
     }
 
     .header-container {
